@@ -3,6 +3,11 @@ body {
   /* background-color: #f5f7fa; */
 }
 
+p {
+  margin: 0;
+  padding: 0;
+}
+
 .main-container {
   display: flex;
   flex-direction: row-reverse;
@@ -244,7 +249,7 @@ body {
 .tech-skills-list,
 .soft-skills-list,
 .language-skills-list {
-  padding: 0 0 0 17px; /* внутренние отступы в skills верх, право, низ, лево можно командой padding-left 15px */
+  padding: 0 0 0 17px;
 }
 
 .tech-skills-item,
