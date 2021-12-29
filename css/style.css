@@ -1,6 +1,6 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: #f5f7fa;
+  /* background-color: #f5f7fa; */
 }
 
 .main-container {
@@ -8,8 +8,11 @@ body {
   flex-direction: row-reverse;
   width: 1200px;
   background-color: #fff;
-  margin: 40px auto;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); /* shadow */
+  /* margin: 40px auto;
+   */
+  margin: 0 auto;
+  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
+  /* shadow */
 }
 
 /* main content section */
