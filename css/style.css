@@ -16,7 +16,7 @@ p {
   /* margin: 40px auto;
    */
   margin: 0 auto;
-  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
   /* shadow */
 }
 
@@ -132,7 +132,8 @@ p {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #595959;
+  /* color: #a8a8a8; */
   margin: 0 0 10px 0;
 }
 
@@ -181,7 +182,8 @@ p {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #595959;
+  /* color: #a8a8a8; */
   margin: 0 0 10px 0;
 }
 
