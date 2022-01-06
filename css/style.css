@@ -11,6 +11,7 @@ p {
 .main-container {
   display: flex;
   flex-direction: row-reverse;
+  /* justify-content: flex-start; */
   width: 1200px;
   background-color: #fff;
   /* margin: 40px auto;
@@ -60,7 +61,8 @@ p {
 }
 
 .about-me-description {
-  width: 400px; /* ширина текста обо мне*/
+  /* width: 400px; */
+  width: 629px;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -196,6 +198,7 @@ p {
   background-color: #1e2939;
   width: 370px;
   padding: 40px 0;
+  margin: 0;
 }
 
 .contacts-section {
